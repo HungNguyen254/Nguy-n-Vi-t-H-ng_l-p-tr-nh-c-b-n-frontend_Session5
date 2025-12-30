@@ -1,0 +1,26 @@
+body{
+    background-color:lightgray;
+}
+.caption{
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+}
+.tieude{
+    background-color:rgb(42, 42, 199);
+    color:white;
+}
+.dulieu1{
+    background-color: lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dulieu2{
+    background-color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dulieu3{
+    background-color:lightgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    border-color:white;
+}
