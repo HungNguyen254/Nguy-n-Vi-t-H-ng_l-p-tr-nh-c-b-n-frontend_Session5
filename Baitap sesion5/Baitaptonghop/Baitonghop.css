@@ -1,0 +1,36 @@
+div{
+    background-color: rgba(2, 132, 199);
+}
+h1{
+    color:white;
+    text-align: center;
+}
+.p0{
+    color:white;
+    text-align: center;
+}
+h2{
+    color:rgba(5, 109, 165);
+}
+.lightblue{
+    color:rgb(2, 117, 189);
+}
+li:hover{
+    color:rgb(12, 135, 135);
+    cursor: pointer;
+
+}
+/* li::first-letter{
+    
+} */
+.red{
+    color:red;
+}
+body{
+    background-color: aquamarine;
+}
+.foot{
+    color:White;
+    text-align: center;
+    background-color: rgba(2, 132, 199);
+}
